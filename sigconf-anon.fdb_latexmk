@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1745932420.33373 "/home/chris/ai-ethical-dm/papers/ISWC_2025/sigconf-anon.tex" "sigconf-anon.pdf" "sigconf-anon" 1745932421.53769 0
+["pdflatex"] 1745932680.32521 "/home/chris/ai-ethical-dm/papers/ISWC_2025/sigconf-anon.tex" "sigconf-anon.pdf" "sigconf-anon" 1745932681.49668 0
   "/etc/texmf/web2c/texmf.cnf" 1745927063.1389 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/chris/ai-ethical-dm/papers/ISWC_2025/sigconf-anon.tex" 1745932420.0279 9836 f197be446764cbc26b1d1dd904870065 ""
+  "/home/chris/ai-ethical-dm/papers/ISWC_2025/sigconf-anon.tex" 1745932680.05329 9743 be1aa31ab36b270fbd73782622fc6392 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_25tcsq.enc" 1490131464 2921 8ca0eb0831f9bc5da080d3697cfe67bf ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_76gpa5.enc" 1490131464 2933 9ad527ce78d7c5fa0a642dead095f172 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/libertine/lbtn_7grukw.enc" 1490131464 2934 a4a9158faed2e9e89c771b4e3b7fc12f ""
@@ -176,9 +176,9 @@
   "acmart.cls" 1745925689.54715 119755 fb6b15d8a2b05651c52a19a84ffb7b05 ""
   "images/ontology_chat.png" 1745926454.38238 190950 c62c496f2d7080e6fded66aaac01b2ac ""
   "sampleteaser.pdf" 1745925689.54715 439021 0a6d2a86f8e21c48f45bee790be06f51 ""
-  "sigconf-anon.aux" 1745932421.40041 1500 454a8f30a0b3927cc3dc7225cdd1b5ba "pdflatex"
-  "sigconf-anon.out" 1745932421.40041 84 242e5e90a438f0106ab220915d9d5e2d "pdflatex"
-  "sigconf-anon.tex" 1745932420.0279 9836 f197be446764cbc26b1d1dd904870065 ""
+  "sigconf-anon.aux" 1745932681.3718 1500 454a8f30a0b3927cc3dc7225cdd1b5ba "pdflatex"
+  "sigconf-anon.out" 1745932681.3718 84 242e5e90a438f0106ab220915d9d5e2d "pdflatex"
+  "sigconf-anon.tex" 1745932680.05329 9743 be1aa31ab36b270fbd73782622fc6392 ""
   (generated)
   "sigconf-anon.aux"
   "sigconf-anon.log"
